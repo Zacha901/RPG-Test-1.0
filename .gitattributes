@@ -6,4 +6,6 @@
 *.yy text eol=lf
 *.yyp text eol=lf
 *.json text eol=lf
-
+* text=auto
+*.sh text eol=lf
+*.bat text eol=crlf
